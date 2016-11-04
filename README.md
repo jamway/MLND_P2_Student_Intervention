@@ -1,5 +1,4 @@
-# MLND_projects_2
-Udacity Macine Learning Nanodegree project 2- 
+# Udacity Macine Learning Nanodegree Project 2 
 Student Intervention System
 ## Goal
 Supervised classification learning
